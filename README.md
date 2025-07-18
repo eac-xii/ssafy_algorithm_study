@@ -1,0 +1,1 @@
+![setting](/images/guidance_git/image_setting_01.png)
