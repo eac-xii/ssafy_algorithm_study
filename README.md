@@ -21,13 +21,13 @@
 
 ![setting](/images/guidance_git/image_setting_04.png)
 
-5. `git config --global user.email "_(자신의 깃헙이메일)_"`
+5. `git config --global user.email "\_(자신의 깃헙이메일)\_"`
 
 	ex) git config --global user.email "_eacxii1870@naver.com_"
 
 ![setting](/images/guidance_git/image_setting_05.png)
 
-6. `git config --global user.name "**(자신의 이름)**"`
+6. `git config --global user.name "\*\*(자신의 이름)\*\*"`
 
 	ex) git config --global user.name "**eacxii1870**"
 
