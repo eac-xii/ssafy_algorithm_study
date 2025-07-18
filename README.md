@@ -21,15 +21,15 @@
 
 ![setting](/images/guidance_git/image_setting_04.png)
 
-5. `git config --global user.email "\_(자신의 깃헙이메일)\_"`
+5. `git config --global user.email "(자신의 깃헙이메일)"`
 
-	ex) git config --global user.email "_eacxii1870@naver.com_"
+	# ex) git config --global user.email "_abc123@xxx.xxx_"
 
 ![setting](/images/guidance_git/image_setting_05.png)
 
-6. `git config --global user.name "\*\*(자신의 이름)\*\*"`
+6. `git config --global user.name "(자신의 이름)"`
 
-	ex) git config --global user.name "**eacxii1870**"
+	# ex) git config --global user.name "**abc123**"
 
 ![setting](/images/guidance_git/image_setting_06.png)
 
@@ -76,3 +76,11 @@
 7. 마지막으로 푸시할 때 명령어 구문 마지막은 **(자신의 팀)**으로 작성해주시면 됩니다!
 
 ![push](/images/guidance_git/image_push_guidance_07.png)
+
+---
+
+## Reconnect
+
+초기설정 메뉴얼의 3번까지 진행 -> 브랜치명 꼭 자신의 팀명으로 확인 후 `git pull origin (자신의 팀명)`
+
+![reconnect](/images/guidance_git/image_reconnect.png)
