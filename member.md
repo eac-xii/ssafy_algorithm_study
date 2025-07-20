@@ -1,9 +1,9 @@
 ### Team2 contributors
 
-`JS`
-
-`Ayeong-99`
+`seunghyeon1ee`
 
 `seoyeon208`
 
-`seunghyeon1ee`
+`shsgrnd`
+
+`Kimyongrak`
