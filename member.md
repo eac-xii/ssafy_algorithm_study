@@ -1,7 +1,7 @@
 ### Team1 contributors
 
-`bottle-su`
+`yizyeo`
+
+`Ayeong-99`
 
 `강찬휘`
-
-`Shinbeom Park`
